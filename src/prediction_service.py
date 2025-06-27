@@ -17,10 +17,10 @@ def make_prediction(model, input_data):
     Returns:
     - 0 for legitimate, 1 for fraud
     """
-    # Convert input_data dictionary to DataFrame
+   
     df = pd.DataFrame([input_data])
 
-    # Predict
+   
     prediction = model.predict(df)
 
     return int(prediction[0])

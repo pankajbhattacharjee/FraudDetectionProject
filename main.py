@@ -5,10 +5,10 @@ def main():
     df = load_data('data/transactions.csv')
     df = preprocess_data(df)
 
-    # Train model
+   
     model, X_test, y_test = train_model(df)
 
-    # Evaluate
+   
     evaluate_model(model, X_test, y_test)
 
 if __name__ == "__main__":

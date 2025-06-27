@@ -13,7 +13,7 @@ def train_model(df):
     model = RandomForestClassifier(n_estimators=100, random_state=42)
     model.fit(X_train, y_train)
 
-    # ✅ Save model after training
+ 
     joblib.dump(model, 'models/fraud_model.pkl')
     print("✅ Model saved as 'models/fraud_model.pkl'")
 

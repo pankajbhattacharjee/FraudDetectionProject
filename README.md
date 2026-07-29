@@ -94,39 +94,7 @@ streamlit run app.py
 7. Fraud Prediction
 8. Streamlit Deployment
 
----
 
-## 📈 Model Performance
-
-| Metric | Score |
-|---------|--------|
-| Accuracy | XX% |
-| Precision | XX% |
-| Recall | XX% |
-| F1 Score | XX% |
-| ROC-AUC | XX% |
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-(Add screenshot)
-
-### Prediction Page
-
-(Add screenshot)
-
-### Confusion Matrix
-
-(Add screenshot)
-
-### Feature Importance
-
-(Add screenshot)
-
----
 
 ## 🧪 Running Tests
 

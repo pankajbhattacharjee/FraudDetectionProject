@@ -1,25 +1,18 @@
-# Python
 __pycache__/
 *.py[cod]
 
-# Virtual Environment
 venv/
 .env
 
-# Jupyter
 .ipynb_checkpoints/
 
-# Database
 *.db
 *.sqlite3
 
-# Model Files
 *.pkl
 
-# IDE
 .vscode/
 .idea/
 
-# OS Files
 .DS_Store
 Thumbs.db

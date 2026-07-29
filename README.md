@@ -67,7 +67,7 @@ FraudDetectionProject/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FraudDetectionProject.git
+git clone https://github.com/pankajbhattacharjee/FraudDetectionProject
 
 cd FraudDetectionProject
 
